@@ -1,0 +1,2 @@
+# munencropping
+Intelligent image cropping
